@@ -1,0 +1,13 @@
+
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class ServletConfigProcess
+ */
+@WebServlet("/ServletConfigProcess")
+public class ServletConfigProcess extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+}
