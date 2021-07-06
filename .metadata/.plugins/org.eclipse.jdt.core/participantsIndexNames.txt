@@ -21,6 +21,10 @@ D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core
 \JstlP3\src
 D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\695243334.index
 \ActionTag\src
+D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2902020276.index
+\SpringIntegratingWithHibernate\src\main\java
+D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2940264559.index
+\SpringIntegratingWithHibernate\src\main\resources
 D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2503626439.index
 \AdvanceJavaJSP1\src
 D:\ConveyLabOnline\AdvanceJavaBatch7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\531889924.index
